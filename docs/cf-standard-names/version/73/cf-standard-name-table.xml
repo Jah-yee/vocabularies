@@ -2335,7 +2335,7 @@
       <canonical_units>K</canonical_units>
       <grib></grib>
       <amip></amip>
-      <description>The atmosphere_stability_total_totals_index indicates thelikelihood of severe convection and is often referred to as simply thetotal totals index. The index is derived from the difference in airtemperature between 850 and 500 hPa (the vertical totals) and thedifference between the dew point temperature at 850 hPa and the airtemperature at 500 hPa (the cross totals). The vertical totals and crosstotals are summed to obtain the index.</description>
+      <description>The atmosphere_stability_total_totals_index indicates the likelihood of severe convection and is often referred to as simply the total totals index. The index is derived from the difference in air temperature between 850 and 500 hPa (the vertical totals) and the difference between the dew point temperature at 850 hPa and the air temperature at 500 hPa (the cross totals). The vertical totals and cross totals are summed to obtain the index.</description>
    </entry>
   
    <entry id="atmosphere_transformed_eulerian_mean_meridional_overturning_mass_streamfunction">
